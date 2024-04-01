@@ -1,0 +1,7 @@
+db.customer.deleteOne({ customer_id: 10001 })
+
+db.orders_w_lines.deleteMany({ "customer_id": 10001 })
+
+db.customer.find().pretty()
+
+db.orders_w_lines.find().pretty()

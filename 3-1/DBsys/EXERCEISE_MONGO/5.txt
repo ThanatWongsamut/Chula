@@ -1,0 +1,1 @@
+ทำการ embed order_line ลงใน collection product แทน โดยเลือกตาม order_line ที่มี product_id ตรงกันกับ key ของ product

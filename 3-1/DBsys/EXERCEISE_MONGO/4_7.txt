@@ -1,0 +1,56 @@
+db.getCollection('orders_w_lines').aggregate(
+  [
+    { $unwind: '$order_lines' },
+    {
+      $group: {
+        _id: '$order_lines.product_id',
+        total_ordered_quantity: {
+          $sum: '$order_lines.ordered_quantity'
+        }
+      }
+    },
+    {
+      $group: {
+        _id: null,
+        maxTotalOrderedQuantity: {
+          $max: '$total_ordered_quantity'
+        },
+        products: {
+          $push: {
+            product_id: '$_id',
+            total_ordered_quantity:
+              '$total_ordered_quantity'
+          }
+        }
+      }
+    },
+    { $unwind: '$products' },
+    {
+      $match: {
+        $expr: {
+          $eq: [
+            '$products.total_ordered_quantity',
+            '$maxTotalOrderedQuantity'
+          ]
+        }
+      }
+    },
+    {
+      $lookup: {
+        from: 'product',
+        localField: 'products.product_id',
+        foreignField: 'product_id',
+        as: 'productDetails'
+      }
+    },
+    { $unwind: '$productDetails' },
+    {
+      $project: {
+        _id: 0,
+        product_id: '$productDetails.product_id',
+        product_name:
+          '$productDetails.product_name'
+      }
+    }
+  ]
+);

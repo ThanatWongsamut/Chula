@@ -1,0 +1,13 @@
+version: "3.1"
+
+services:
+  sql-server:
+    platform: linux/amd64
+    image: mcr.microsoft.com/mssql/server
+    ports:
+      - 1433:1433
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=k?nIL9K1V#3"
+    volumes:
+      - /var/opt/mssql

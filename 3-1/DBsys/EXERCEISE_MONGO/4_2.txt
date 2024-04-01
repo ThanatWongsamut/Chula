@@ -1,0 +1,12 @@
+db.getCollection('customer').aggregate(
+  [
+    {
+      $group: {
+        _id: '$customer_zipcode',
+        customer_numbers: { $sum: 1 }
+      }
+    },
+    { $match: { customer_numbers: { $gt: 1 } } },
+    { $sort: { customer_numbers: -1 } }
+  ]
+);
