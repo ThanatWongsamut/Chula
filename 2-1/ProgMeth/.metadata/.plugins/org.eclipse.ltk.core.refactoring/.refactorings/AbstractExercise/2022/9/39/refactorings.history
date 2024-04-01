@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;logic.UnitItems&apos; to &apos;UnitItem&apos;&#x0A;- Original project: &apos;AbstractExercise&apos;&#x0A;- Original element: &apos;logic.UnitItems&apos;&#x0A;- Renamed element: &apos;logic.UnitItem&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;UnitItems&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;logic{UnitItems.java[UnitItems" matchStrategy="1" name="UnitItem" qualified="false" references="true" similarDeclarations="false" stamp="1663910174038" textual="false" version="1.0"/>
+</session>

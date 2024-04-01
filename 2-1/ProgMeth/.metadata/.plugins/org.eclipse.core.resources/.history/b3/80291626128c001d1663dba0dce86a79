@@ -1,0 +1,23 @@
+package challenge;
+import java.security.Key;
+import java.util.Scanner;
+
+import javax.crypto.Cipher;
+import javax.crypto.spec.SecretKeySpec;
+public class Application 
+{
+	String algorithm = "Vigenère Encode";
+	
+	String eflag = "QGUSILMV{WJ_C4D4_vz422_34JR_70_l3V0AGbt3?}";
+	
+	String key = "titor";
+    
+    public static void main(String[] args) 
+    {
+        Scanner myObj = new Scanner(System.in);  // Create a Scanner object
+        System.out.println("Enter username");
+
+        String userName = myObj.nextLine();  // Read user input
+        System.out.println("Username is: " + userName);  // Output user input
+    }
+}

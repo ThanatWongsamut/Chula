@@ -1,0 +1,8 @@
+out1 = (B&!C&D) | (C&D) | (A);
+
+out2 = (B&C) | (!B&!C&D) | (B&!D);
+
+out3 = (C&!D) | (B&!C&D) | (A);
+
+out4 = (!B&!C&D) | (B&!C&D) | (C&D);
+

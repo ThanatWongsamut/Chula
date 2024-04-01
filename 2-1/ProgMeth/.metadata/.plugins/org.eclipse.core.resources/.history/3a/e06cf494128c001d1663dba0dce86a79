@@ -1,0 +1,30 @@
+package challenge;
+import java.util.Scanner;
+public class Application 
+{
+	static String algorithm = "Vigenère Encode";
+	
+	static String eflag = "QGUSILMV{WJ_C4D4_vz422_34JR_70_l3V0AGbt3?}";
+	
+	static String key = "titor";
+	
+	public static void printFlag() {
+		System.out.println("Sorry, there is no flag here");
+	}
+    
+    public static void main(String[] args) 
+    {
+        Scanner myObj = new Scanner(System.in);  // Create a Scanner object
+        System.out.println("Enter username");
+
+        String username = myObj.nextLine();  // Read user input
+        
+        System.out.println("Enter password");
+
+        String password = myObj.nextLine();  // Read user input
+        
+		if (username == key && password == eflag) {
+			printFlag();
+		}
+    }
+}

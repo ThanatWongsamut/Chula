@@ -1,0 +1,100 @@
+1670760675050	Rename package 'gui.enermy'
+1670760690631	Rename type 'EnermyPane'
+1670762205034	Rename package 'texture.enermy'
+1670829255578	Rename type 'NormalBullet'
+1670829368043	Rename type 'LaserBullet'
+1670829377480	Rename type 'PistolBullet'
+1670829384964	Rename type 'RifleBullet'
+1670829392753	Rename type 'ShortBullet'
+1670832650378	Rename type 'ShortGun'
+1670832684775	Rename type 'ShortGunBullet'
+1670956751273	Encapsulate field 'startGame'
+1670956765720	Encapsulate field 'player'
+1670957495811	Delete element
+1670968609909	Encapsulate field 'name'
+1670997991012	Delete element
+1670998100613	Delete element
+1671003377234	Rename resource 'flame.wav'
+1671003434381	Rename resource 'lasergun.wav'
+1671037621647	Rename package 'gui.weapon.Bullet'
+1671037632205	Rename package 'gui.weapon.Weapon'
+1671040556592	Move field
+1671040561047	Move field
+1671041664446	Move method
+1671041670405	Move method
+1671041672803	Move method
+1671041675673	Move method
+1671041831124	Move methods
+1671041971482	Move method
+1671046882211	Move method
+1671046887409	Move method
+1671046929411	Move method
+1671046932764	Move method
+1671046937056	Move methods
+1671047007052	Move method
+1671047011744	Move method
+1671047050302	Move methods
+1671047062348	Move methods
+1671047064942	Move method
+1671047067914	Move method
+1671047107579	Move methods
+1671047140413	Move methods
+1671047146048	Move method
+1671047186210	Move methods
+1671047206561	Move method
+1671047217516	Move method
+1671047263881	Move method
+1671047273820	Move method
+1671047305440	Move method
+1671047312500	Move methods
+1671047385913	Move method
+1671047445643	Move methods
+1671047452701	Move method
+1671047535432	Move method
+1671048205484	Move method
+1671048312998	Move method
+1671048361054	Move method
+1671048366211	Move method
+1671081301983	Move methods
+1671081627993	Move method
+1671081795415	Move method
+1671081797722	Move method
+1671086024108	Move method
+1671086136471	Move method
+1671086244006	Move methods
+1671086248335	Move methods
+1671086260273	Move methods
+1671086263359	Move method
+1671086266735	Move methods
+1671086454587	Move method
+1671086459273	Move method
+1671086463543	Move method
+1671086465745	Move method
+1671086470588	Move method
+1671086549563	Move field
+1671086657018	Move method
+1671088058370	Move field
+1671088063533	Move field
+1671088070725	Move field
+1671088077880	Move field
+1671088080282	Copy field
+1671088116876	Move field
+1671088124186	Move field
+1671088137279	Move field
+1671088155747	Move fields
+1671103197009	Move methods
+1671103204837	Move methods
+1671103229213	Move methods
+1671103401106	Move methods
+1671103426086	Move method
+1671103434187	Move method
+1671103442845	Move method
+1671103448109	Move method
+1671103495057	Move method
+1671103506550	Move method
+1671103517649	Move method
+1671103612316	Move methods
+1671103627359	Move method
+1671103652529	Move methods
+1671103662841	Move method
+1671103691682	Move methods

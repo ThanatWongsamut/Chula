@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;gui.Floor&apos; to &apos;FloorSquare&apos;&#x0A;- Original project: &apos;The_Farmer_And_The_Viper&apos;&#x0A;- Original element: &apos;gui.Floor&apos;&#x0A;- Renamed element: &apos;gui.FloorSquare&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Floor&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;gui{Floor.java[Floor" matchStrategy="1" name="FloorSquare" qualified="false" references="true" similarDeclarations="false" stamp="1669391414199" textual="false" version="1.0"/>
+</session>
