@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="com.st.stm32cube.common.projectcreation.ui.stm32projectwizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="com.st.stm32cube.common.projectcreation.ui.category"/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/titor/Chula/2-2/Embeded Sys Lab/Lab02_5"/>
+			<item value="/Users/titor/Chula/2-2/Embeded Sys Lab/Lab01_4"/>
+			<item value="/Users/titor/Chula/2-2/Embeded Sys Lab/Lab02_3"/>
+			<item value="/Users/titor/Chula/2-2/Embeded Sys Lab/Lab02_4"/>
+			<item value="/Users/titor/Chula/2-2/Embeded Sys Lab/Lab03_1"/>
+			<item value="/Users/titor/Chula/2-2/Embeded Sys Lab/Lab3_12"/>
+			<item value="/Users/titor/Chula/2-2/Embeded Sys Lab/Lab01_2"/>
+			<item value="/Users/titor/Chula/2-2/Embeded Sys Lab/Lab01_1"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="451"/>
+		<item key="DIALOG_Y_ORIGIN" value="273"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

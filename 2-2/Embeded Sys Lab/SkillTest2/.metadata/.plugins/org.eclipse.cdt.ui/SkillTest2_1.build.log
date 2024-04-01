@@ -1,0 +1,10 @@
+02:18:26 **** Incremental Build of configuration Debug for project SkillTest2_1 ****
+make -j7 all 
+arm-none-eabi-size   SkillTest2_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11296	     20	   1676	  12992	   32c0	SkillTest2_1.elf
+Finished building: default.size.stdout
+ 
+
+02:18:26 Build Finished. 0 errors, 0 warnings. (took 586ms)
+
