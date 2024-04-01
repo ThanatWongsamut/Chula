@@ -1,0 +1,67 @@
+[submodule "2-1/ProgMeth/2110215_Lab1_2022_1_6432067021_Thanat"]
+path = 2-1/ProgMeth/2110215_Lab1_2022_1_6432067021_Thanat
+url = git@github.thanat:2110215-ProgMeth/lab-1-2022-1-ThanatWonsamut.git
+
+[submodule "2-1/ProgMeth/2110215_Lab2_2022_1_6432067021_Thanat"]
+path = 2-1/ProgMeth/2110215_Lab2_2022_1_6432067021_Thanat
+url = git@github.thanat:2110215-ProgMeth/lab-2-2022-1-ThanatWonsamut.git
+
+[submodule "2-1/ProgMeth/2110215_Lab3_2022_1_6432067021_Thanat"]
+path = 2-1/ProgMeth/2110215_Lab3_2022_1_6432067021_Thanat
+url = git@github.thanat:2110215-ProgMeth/lab-3-2022-1-ThanatWonsamut.git
+
+[submodule "2-1/ProgMeth/2110215_Lab4_2022_1_6432067021_Thanat"]
+path = 2-1/ProgMeth/2110215_Lab4_2022_1_6432067021_Thanat
+url = git@github.thanat:2110215-ProgMeth/lab-4-2022-1-ThanatWonsamut.git
+
+[submodule "2-1/ProgMeth/2110215_Lab5_2022_1_6432067021_Thanat"]
+path = 2-1/ProgMeth/2110215_Lab5_2022_1_6432067021_Thanat
+url = git@github.thanat:2110215-ProgMeth/lab-5-2022-1-ThanatWonsamut.git
+
+[submodule "2-1/ProgMeth/2110215_Lab6_2022_1_6432067021_Thanat"]
+path = 2-1/ProgMeth/2110215_Lab6_2022_1_6432067021_Thanat
+url = git@github.thanat:2110215-ProgMeth/lab-6-2022-1-ThanatWonsamut.git
+
+[submodule "2-1/ProgMeth/The_Farmer_And_The_Viper"]
+path = 2-1/ProgMeth/The_Farmer_And_The_Viper
+url = git@github.thanat:ThanatWonsamut/The_Farmer_And_The_Viper.git
+
+[submodule "2-2/Comp Eng Ess/Activity8_pre/compengess-activity-8-preparation-starter"]
+path = 2-2/Comp Eng Ess/Activity8_pre/compengess-activity-8-preparation-starter
+url = https://github.com/jamestenni/compengess-activity-8-preparation-starter.git
+
+[submodule "2-2/Comp Eng Ess/Final/compengess-2022-2-final-backend-group-28"]
+path = 2-2/Comp Eng Ess/Final/compengess-2022-2-final-backend-group-28
+url = git@github.thanat:ThanatWonsamut/compengess-2022-2-final-backend-group-28.git
+
+[submodule "2-2/Comp Eng Ess/Final/compengess-2022-2-final-frontend-group-28"]
+path = 2-2/Comp Eng Ess/Final/compengess-2022-2-final-frontend-group-28
+url = git@github.thanat:ThanatWonsamut/compengess-2022-2-final-frontend-group-28.git
+
+[submodule "2-2/Comp Eng Ess/activity8/compengess-activity-8-backend-starter"]
+path = 2-2/Comp Eng Ess/activity8/compengess-activity-8-backend-starter
+url = git@github.thanat:ThanatWonsamut/compengess-2022-2-activity-8-backend-group-7.git
+
+[submodule "2-2/Comp Eng Ess/activity8/compengess-activity-8-frontend-starter"]
+path = 2-2/Comp Eng Ess/activity8/compengess-activity-8-frontend-starter
+url = git@github.thanat:ThanatWonsamut/compengess-2022-2-activity-8-frontend-group-7.git
+
+[submodule "2-2/Embeded Sys Lab/FinalProject"]
+path = 2-2/Embeded Sys Lab/FinalProject
+url = git@github.thanat:ThanatWonsamut/embed-sys-lab-final.git
+
+[submodule "3-1/DBsys/2110322_DBSYS_2566_1"]
+path = 3-1/DBsys/2110322_DBSYS_2566_1
+url = https://github.com/wichadak/2110322_DBSYS_2566_1
+
+[submodule "3-1/DBsys/dbsys2023-final-proj"]
+path = 3-1/DBsys/dbsys2023-final-proj
+url = git@github.thanat:emthy0/dbsys2023-final-proj.git
+
+[submodule "3-1/DBsys/postgreSQL-pgAdmin-installation-guide"]
+path = 3-1/DBsys/postgreSQL-pgAdmin-installation-guide
+url = https://github.com/TendonT52/postgreSQL-pgAdmin-installation-guide.git
+
+[submodule "3-1/HW_SYN_LAB/HW_Syn_Lab_Pong"]
+path = 3-1/HW_SYN_LAB/HW_Syn_Lab_Pong
+url = git@github.thanat:punyaphatsura/HW_Syn_Lab_Pong.git
